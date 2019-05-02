@@ -1,0 +1,30 @@
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="514" width="102" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g stroke="null" id="svg_19">
+   <path stroke="null" id="svg_1" fill="#D32E2A" d="m99.000002,15.606216l0,40.767118c0,7.277854 -5.900361,13.178215 -13.178215,13.178215l-72.643572,0c-7.277854,0 -13.178215,-5.900361 -13.178215,-13.178215l0,-40.767118c0,-7.277854 5.900361,-13.178215 13.178215,-13.178215l72.643765,0c7.27766,0 13.178022,5.900361 13.178022,13.178215z"/>
+   <path stroke="null" id="svg_2" fill="#F14336" d="m13.178215,64.551276c-4.509141,0 -8.177942,-3.668607 -8.177942,-8.177942l0,-40.767118c0,-4.509141 3.668607,-8.177942 8.177942,-8.177942l72.643765,0c4.509141,0 8.177942,3.668607 8.177942,8.177942l0,40.767118c0,4.509141 -3.668607,8.177942 -8.177942,8.177942l-72.643765,0l0,0z"/>
+   <polygon stroke="null" id="svg_3" fill="#F2F2F2" points="64.19319152832031,36.177330017089844 38.8619499206543,50.80303955078125 38.8619499206543,21.55162811279297 "/>
+   <g stroke="null" id="svg_4"/>
+   <g stroke="null" id="svg_5"/>
+   <g stroke="null" id="svg_6"/>
+   <g stroke="null" id="svg_7"/>
+   <g stroke="null" id="svg_8"/>
+   <g stroke="null" id="svg_9"/>
+   <g stroke="null" id="svg_10"/>
+   <g stroke="null" id="svg_11"/>
+   <g stroke="null" id="svg_12"/>
+   <g stroke="null" id="svg_13"/>
+   <g stroke="null" id="svg_14"/>
+   <g stroke="null" id="svg_15"/>
+   <g stroke="null" id="svg_16"/>
+   <g stroke="null" id="svg_17"/>
+   <g stroke="null" id="svg_18"/>
+  </g>
+ </g>
+</svg>

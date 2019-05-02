@@ -1,0 +1,35 @@
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="514" width="102" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g stroke="null" id="svg_23">
+   <g stroke="null" id="svg_1">
+    <polygon stroke="null" id="svg_2" fill="#F2F2F2" points="93.5259780883789,14.246994972229004 87.1421890258789,79.35257720947266 10.467187881469727,79.35257720947266 5.324023246765137,15.507020950317383 48.8046875,40.231781005859375 "/>
+    <polygon stroke="null" id="svg_3" fill="#F2F2F2" points="91.36054229736328,1.983001708984375 48.8046875,42.58380889892578 6.248828887939453,1.983001708984375 48.8046875,1.983001708984375 "/>
+   </g>
+   <path stroke="null" id="svg_4" fill="#F14336" d="m10.6625,20.730595l0,58.621986l-6.947852,0c-2.60293,0 -4.714649,-2.144537 -4.714649,-4.788363l0,-62.467712l7.617188,0.210863l4.045313,8.423226z"/>
+   <path stroke="null" id="svg_5" fill="#D32E2A" d="m99.000004,12.096506l0,62.467911c0,2.643627 -2.111719,4.788363 -4.717188,4.788363l-6.945313,0l0,-58.622184l3.846094,-9.228989l7.816407,0.5949z"/>
+   <path stroke="null" id="svg_6" fill="#F14336" d="m99.000004,6.771364l0,5.325142l-11.6625,8.634089l-38.337501,28.379862l-38.337501,-28.379862l-11.6625,-8.634089l0,-5.325142c0,-2.643627 2.111719,-4.788363 4.714649,-4.788363l2.729492,0l42.555861,31.502345l42.555861,-31.502345l2.726953,0c2.605469,0 4.717188,2.144537 4.717188,4.788363z"/>
+   <polygon stroke="null" id="svg_7" fill="#D32E2A" points="10.662500381469727,20.730594635009766 -1,18.894123077392578 -1,12.09650707244873 "/>
+   <g stroke="null" id="svg_8"/>
+   <g stroke="null" id="svg_9"/>
+   <g stroke="null" id="svg_10"/>
+   <g stroke="null" id="svg_11"/>
+   <g stroke="null" id="svg_12"/>
+   <g stroke="null" id="svg_13"/>
+   <g stroke="null" id="svg_14"/>
+   <g stroke="null" id="svg_15"/>
+   <g stroke="null" id="svg_16"/>
+   <g stroke="null" id="svg_17"/>
+   <g stroke="null" id="svg_18"/>
+   <g stroke="null" id="svg_19"/>
+   <g stroke="null" id="svg_20"/>
+   <g stroke="null" id="svg_21"/>
+   <g stroke="null" id="svg_22"/>
+  </g>
+ </g>
+</svg>
