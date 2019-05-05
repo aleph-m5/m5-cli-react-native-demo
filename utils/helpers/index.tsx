@@ -1,3 +1,5 @@
+
+
 export const trimText = (str: string, limit: number = 100) => {
     const trimmedString = str.length > limit ?
         str.substring(0, limit - 3) + "..." :
@@ -265,7 +267,30 @@ const getDataByKeyValue = (data, key, value) => {
     return data[0]
 }
 
+const createArrayAtoZ = () => {
+    // return new Array( 26 ).fill( 1 ).map( ( _, i ) => {
+    //     return String.fromCharCode( 65 + i ).toLowerCase()
+    // });
+    const temp = [];
+    const arr = new Array( 26 );
+    for (let index = 0; index < arr.length; index++) {
+        temp.push(String.fromCharCode( 65 + index ).toLowerCase())
+    }
+    return temp
+
+}
+
+const createArrayList = (name, length) => {
+    const temp = [];
+    for (let index = 0; index < length; index++) {
+        temp.push(`${name}${index}`)
+    }
+    return temp
+}
+
 const helpers = {
+    createArrayList,
+    createArrayAtoZ,
     forceValue,
     getDataByKeyValue,
     isJsonString,
